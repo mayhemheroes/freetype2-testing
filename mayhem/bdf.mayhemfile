@@ -1,0 +1,4 @@
+project: PROJECT
+target: bdf
+cmds:
+- cmd: /out/bdf
